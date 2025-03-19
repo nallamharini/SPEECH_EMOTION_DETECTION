@@ -67,5 +67,5 @@ def prepare_dataset(audio_dir):
     return df
 
 if __name__ == "__main__":
-    audio_dir = r'C:\Users\VIGNESH VARMA\OneDrive\Desktop\SPEECH-EMOTION-DETECTION\dataset\archive'
+    audio_dir = r'C:\Users\nalla\Desktop\SPEECH_EMOTION_DETECTION\DATASET'
     prepare_dataset(audio_dir)

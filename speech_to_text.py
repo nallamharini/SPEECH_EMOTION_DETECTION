@@ -16,7 +16,6 @@ def speech_to_text(audio_path):
             return None
 
 if __name__ == "__main__":
-    audio_path = r"C:\Users\VIGNESH VARMA\OneDrive\Desktop\SPEECH-EMOTION-DETECTION\dataset\Actor_01\03-01-01-01-01-01-01.wav"
-    text = speech_to_text(audio_path)
+    audio_path = r"C:\Users\nalla\Desktop\SPEECH_EMOTION_DETECTION\DATASET\Actor_02"
     print(f"Result: {text}")
 
